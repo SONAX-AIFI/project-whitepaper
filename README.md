@@ -11,6 +11,7 @@ SONAX focuses on AIFi Agent aggregation and executable on-chain alpha.
 Further details about the project's architecture, functionality, and technical implementation should be verified against the official whitepaper and other officially published documentation.
 
 Official Links
+
 X:[@SONAX_AIFI](https://x.com/SONAX_AIFI)
 
 Disclaimer
