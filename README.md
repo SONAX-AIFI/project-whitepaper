@@ -4,7 +4,7 @@ SONAX is an AIFi Agent aggregation project focused on executable on-chain alpha.
 Whitepaper
 SONAX Ecosystem Whitepaper — English Original Layout
 
-[Read the SONAX Whitepaper (PDF)](https://github.com/SONAX-AIFI/project-whitepaper/blob/7119090e35e48fb7e18304a8a5a4b1a9ab3ca59c/SONAX_Ecosystem_Whitepaper_English_Original_Layout.pdf)
+[Read the SONAX Whitepaper (PDF)]https://github.com/SONAX-AIFI/project-whitepaper/blob/534664c0c1b82fe64b5a13b0c8eca5e1ddefb7ed/SONAX_Ecosystem_Whitepaper.pdf
 
 About SONAX
 SONAX focuses on AIFi Agent aggregation and executable on-chain alpha.
